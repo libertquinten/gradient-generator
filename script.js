@@ -8,7 +8,7 @@ const changeBackgroundColor = () =>{
     /*  If user sets the gradient to be completely black,
         change the text color to white to ensure readability
     */
-    if((color1.value === '#000000') && (color1.value === '#000000')){
+    if((color1.value === '#000000') || (color2.value === '#000000')){
 
         body.style.color = '#ffffff';
     } else {
