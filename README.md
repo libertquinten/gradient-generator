@@ -1,1 +1,2 @@
-A simple web app that lets you choose two colors to create a gradient background, and shows the ready CSS code in real time to easily implement this gradient to your site🎨.
+# https://libertquinten.github.io/gradient-generator/
+This simple web app lets you input two colors, displays a gradient, and shows you the CSS code for using that gradient in your own projects.
